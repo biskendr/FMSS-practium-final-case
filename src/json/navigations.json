@@ -1,0 +1,8 @@
+[
+  { "nav": "people" },
+  { "nav": "planets" },
+  { "nav": "films" },
+  { "nav": "species" },
+  { "nav": "vehicles" },
+  { "nav": "starships" }
+]

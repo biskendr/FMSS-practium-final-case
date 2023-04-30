@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/luke-skywalker-main_fb34a1ff.jpeg?region=131%2C0%2C951%2C536"
+  },
+  {
+    "name": "C-3PO",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/c-3po-main_417a2902.jpeg?region=176%2C0%2C951%2C536"
+  },
+  {
+    "name": "R2-D2",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/r2-d2-main_f315b094.jpeg?region=273%2C0%2C951%2C536"
+  },
+  {
+    "name": "Darth Vader",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/darth-vader-main_4560aff7.jpeg?region=0%2C67%2C1280%2C720"
+  },
+  {
+    "name": "Leia Organa",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/60423c5f75f0ef00019a3921-image_0388a3e6.jpeg?region=0,0,1536,864&width=960"
+  },
+  {
+    "name": "Owen Lars",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/owen-lars-main_08c717c8.jpeg?region=0%2C34%2C1053%2C593"
+  },
+  {
+    "name": "Beru Whitesun lars",
+    "img": "https://disneynews.us/wp-content/uploads/2021/04/Beru-Lars-star-wars-300x270.jpg"
+  },
+  {
+    "name": "R5-D4",
+    "img": "https://static.onecms.io/wp-content/uploads/sites/6/2019/01/the-mandalorian-2000.jpg"
+  },
+  {
+    "name": "Biggs Darklighter",
+    "img": "https://themovieandthemuse.files.wordpress.com/2016/12/biggs-darklighter.jpg"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "img": "https://cdn1.img.sputniknews.com.tr/img/102976/63/1029766369_259:0:1340:680_1920x0_80_0_0_7c555c4332ddebcf9b348e4d85f9f955.jpg"
+  },
+  {
+    "name": "Tatooine",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/6d/Tatooine_%28fictional_desert_planet%29.jpg"
+  },
+  {
+    "name": "Alderaan",
+    "img": "https://img2.cgtrader.com/items/3564600/92038246cb/star-wars-planet-pack-2-alderaan-a-new-hope-3d-model-low-poly-rigged-blend.jpg"
+  },
+  {
+    "name": "Yavin IV",
+    "img": "https://img-new.cgtrader.com/items/3563873/a8b0b8d988/large/star-wars-planet-pack-2-yavin-4-iv-3d-model-low-poly-rigged-blend.jpg"
+  },
+  {
+    "name": "Hoth",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/Hothplanetsurface.jpg"
+  },
+  {
+    "name": "Dagobah",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/star-wars-episode-7/6/68/Dagobah_2.jpg"
+  },
+  {
+    "name": "Bespin",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bespin.jpg"
+  },
+  {
+    "name": "Endor",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d4/PlanetEndor.jpg"
+  },
+  {
+    "name": "Naboo",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/f/f2/Nabooplanet.jpg"
+  },
+  {
+    "name": "Coruscant",
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d71e379b-3f09-42b2-b3fe-26548591a750/dev1ud2-ce91843c-b4ee-4ebe-95e8-bee53e8785f3.png/v1/fill/w_1280,h_1280,q_80,strp/coruscant_star_wars_planet_collection_by_ericwhitted_dev1ud2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2Q3MWUzNzliLTNmMDktNDJiMi1iM2ZlLTI2NTQ4NTkxYTc1MFwvZGV2MXVkMi1jZTkxODQzYy1iNGVlLTRlYmUtOTVlOC1iZWU1M2U4Nzg1ZjMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3werYKurkFUOvFqzS0eQ-_w63zR0aDXSwsSBc0Myifs"
+  },
+  {
+    "name": "Kamino",
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d71e379b-3f09-42b2-b3fe-26548591a750/dev7jc2-0871246f-c7b7-4390-a4cc-b1f7ad95ece1.png/v1/fill/w_1280,h_1280,q_80,strp/kamino_star_wars_planet_collection_by_ericwhitted_dev7jc2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2Q3MWUzNzliLTNmMDktNDJiMi1iM2ZlLTI2NTQ4NTkxYTc1MFwvZGV2N2pjMi0wODcxMjQ2Zi1jN2I3LTQzOTAtYTRjYy1iMWY3YWQ5NWVjZTEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DBcS6U7MIEGzXjxA-KsMnoYcCzWBMGn82Ub7nb1y8Ug"
+  },
+  {
+    "name": "A New Hope",
+    "img": "https://m.media-amazon.com/images/I/81P3lDJbjCL.jpg"
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "img": "https://m.media-amazon.com/images/I/61mVAe9vAtL.jpg"
+  },
+  {
+    "name": "Return of the Jedi",
+    "img": "https://m.media-amazon.com/images/I/7193hhHCbhL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "The Phantom Menace",
+    "img": "https://m.media-amazon.com/images/I/51Kr0oPTGAL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Attack of the Clones",
+    "img": "https://www.arthipo.com/image/cache/catalog/poster/movie/759-1554/pfilm1208-star-wars-episode-2-film-movie-posters-cinema-kanvas-tablo-canvas-1000x1000.jpg"
+  },
+  {
+    "name": "Revenge of the Sith",
+    "img": "https://m.media-amazon.com/images/I/61jCCwfO6HL.jpg"
+  },
+  {
+    "name": "Human",
+    "img": "https://cdn.wccftech.com/wp-content/uploads/2022/12/WCCFstarwarsjedisurvivor2.jpg"
+  },
+  {
+    "name": "Droid",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/6047825fea89c20001bc7f2a-image_c06b80fa.jpeg?region=0%2C0%2C1536%2C864"
+  },
+  {
+    "name": "Wookie",
+    "img": "https://i.pinimg.com/originals/26/a2/bc/26a2bc2de50819a651350b4cd284c1c1.jpg"
+  },
+  {
+    "name": "Rodian",
+    "img": "https://external-preview.redd.it/3PnuEepwr94z_rGTlCW4ENS_5YJXEHEnEsEXdj2evPI.jpg?auto=webp&s=0c3e38a33f44369a5ba194ea7773d771f07bb385"
+  },
+  {
+    "name": "Hutt",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/77/JabbaTheHutt.jpg"
+  },
+  {
+    "name": "Yoda's species",
+    "img": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fdorksideoftheforce.com%2Ffiles%2F2020%2F09%2Fyoda_empire-strikes-back-850x544.jpg"
+  },
+  {
+    "name": "Trandoshan",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/trandoshian-main_19804be7.jpeg?region=0%2C67%2C1280%2C720"
+  },
+  {
+    "name": "Mon Calamari",
+    "img": "https://cdnb.artstation.com/p/assets/covers/images/038/478/987/large/robert-rose-robert-rose-moncalthumbnail.jpg?1623201446"
+  },
+  {
+    "name": "Ewok",
+    "img": "https://i.pinimg.com/originals/b1/87/5c/b1875c72102a5fab2750640f75277fe4.jpg"
+  },
+  {
+    "name": "Sullustan",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Nien_Nunb_Return_of_the_Jedi.jpeg"
+  },
+  {
+    "name": "Sand Crawler",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Star_Wars_Sandcrawler.png"
+  },
+  {
+    "name": "T-16 skyhopper",
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab940dbf-6b1c-43d5-9e49-aa8736340b2d/dclh32o-d561b1e3-0522-47df-9973-07d7a45faa61.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiOTQwZGJmLTZiMWMtNDNkNS05ZTQ5LWFhODczNjM0MGIyZFwvZGNsaDMyby1kNTYxYjFlMy0wNTIyLTQ3ZGYtOTk3My0wN2Q3YTQ1ZmFhNjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BWcsYZBwFbHRmsHFeEkk1sfunOCRtkz-0qfgnILPFTU"
+  },
+  {
+    "name": "X-34 landspeeder",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/E4D_IA_1136_6b8704fa.jpeg?region=237%2C0%2C1456%2C819"
+  },
+  {
+    "name": "TIE/LN starfighter",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/009/415/067/4k/ben-armstrong-tie-ln-hangar-01.jpg?1518866470"
+  },
+  {
+    "name": "Snowspeeder",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/snowspeeder_ef2f9334.jpeg"
+  },
+  {
+    "name": "TIE bomber",
+    "img": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2011/10/03/94587/39452/tie_bomber_from_star_wars_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_277752_o.jpg"
+  },
+  {
+    "name": "AT-AT",
+    "img": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fdorksideoftheforce.com%2Ffiles%2F2021%2F03%2Fopen-uri20150608-27674-83g3lt_76fb492d.jpg"
+  },
+  {
+    "name": "AT-ST",
+    "img": "https://cdn.shopify.com/s/files/1/1047/6902/products/rob-kaz-star-wars-at-st-attacks.jpg?v=1567458695"
+  },
+  {
+    "name": "Storm IV Twin-Pod cloud car",
+    "img": "https://swrpggm.com/wp-content/uploads/2021/10/CloudCar_FE.png"
+  },
+  {
+    "name": "Sail barge",
+    "img": "https://sportshub.cbsistatic.com/i/2021/03/16/90cd4b99-3f76-4c9c-993e-2974983393f8/star-wars-jabbas-sail-barge-hasbro-crowdfund-1085664.jpg"
+  },
+  {
+    "name": "CR90 corvette",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/026/021/607/large/malte-ullrich-tantiveiv-image.jpg?1608982531"
+  },
+  {
+    "name": "Star Destroyer",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/022/216/159/large/ben-nicholas-bennicholas-stardestroyer-01.jpg?1574563335 "
+  },
+  {
+    "name": "Death Star",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/028/214/581/large/ansel-hsiao-vsd120.jpg?1593795082"
+  },
+  {
+    "name": "X-wing",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/007/125/427/large/amancio-de-almeida-1.jpg?1503878927"
+  },
+  {
+    "name": "Millennium Falcon",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/008/448/223/large/jay-machado-millenniumfalcon-render-0141.jpg?1512849335"
+  },
+  {
+    "name": "Y-wing",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/023/537/149/large/encho-enchev-sw1.jpg?1579539647"
+  },
+  {
+    "name": "Executor",
+    "img": "https://wallpapercave.com/wp/wp10683027.png"
+  },
+  {
+    "name": "Rebel transport",
+    "img": "https://cdna.artstation.com/p/assets/images/images/010/662/144/large/ansel-hsiao-yz16.jpg?1525581755"
+  },
+  {
+    "name": "TIE Advanced x1",
+    "img": "https://cdna.artstation.com/p/assets/images/images/007/727/540/large/ansel-hsiao-x1-8.jpg?1508121329"
+  },
+  {
+    "name": "Sentinel-class landing craft",
+    "img": "https://cdna.artstation.com/p/assets/images/images/019/160/250/large/alexander-ivanov-sent-7.jpg?1562265020"
+  },
+  {
+    "name": "Slave 1",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/033/981/897/large/mack-sztaba-kuat-systems-interceptor.jpg?1611082305"
+  },
+  {
+    "name": "B-wing",
+    "img": "https://cdna.artstation.com/p/assets/images/images/015/875/396/large/angelos-karderinis-bwing13.jpg?1550004921"
+  },
+  {
+    "name": "Republic Cruiser",
+    "img": "https://cdna.artstation.com/p/assets/images/images/004/429/674/large/alexander-axelsson-trianglev3.jpg?1483696519"
+  },
+  {
+    "name": "Droid control ship",
+    "img": "https://cdna.artstation.com/p/assets/images/images/033/069/986/large/rijian-tan-scene-concept.jpg?1608301434"
+  },
+  {
+    "name": "Calamari Cruiser",
+    "img": "https://cdna.artstation.com/p/assets/images/images/039/852/852/large/littleeggart-mon-calamari-cruiser2.jpg?1627133413"
+  },
+  {
+    "name": "Naboo fighter",
+    "img": "https://cdna.artstation.com/p/assets/images/images/051/491/354/large/erik-stitt-arrowhex-fighter-lg.jpg?1657444142"
+  },
+  {
+    "name": "A-wing",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/001/437/793/large/andrew-hodgson-finalcomp.jpg?1446427709"
+  },
+  {
+    "name": "Naboo Royal Starship",
+    "img": "https://cdna.artstation.com/p/assets/images/images/019/523/876/large/jose-mikhail-nubian-blackbird-wip-05ef.jpg?1563883440"
+  },
+  {
+    "name": "AA-9 Coruscant freighter",
+    "img": "https://i.ytimg.com/vi/JuURC186u4Q/hqdefault.jpg"
+  },
+  {
+    "name": "Scimitar",
+    "img": "https://preview.redd.it/lmssapb3neu81.jpg?width=640&crop=smart&auto=webp&s=12af6e0656f4e88f3778e0a22cffe8223c814bd8"
+  },
+  {
+    "name": "J-type diplomatic barge",
+    "img": "https://cdna.artstation.com/p/assets/images/images/009/100/184/large/alexey-novikov-_-forest-cat-amidalaship2-ue4-1.jpg?1517152573"
+  },
+  {
+    "name": "Trade Federation cruiser",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_tradefederationbattleship_01_169_fc5458ce.jpeg?region=0%2C49%2C1560%2C780"
+  },
+  {
+    "name": "Republic attack cruiser",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_republicattackcruiser_01_169_812f153d.jpeg?region=0%2C0%2C1560%2C780"
+  },
+  {
+    "name": "Theta-class T-2c shuttle",
+    "img": "https://media.sketchfab.com/models/e11da66567c44646b47b6da80074fc1a/thumbnails/ffb1bbe16a9e469fb44ab5bda78f6135/1024x576.jpeg"
+  },
+  {
+    "name": "Jedi starfighter",
+    "img": "https://cdna.artstation.com/p/assets/images/images/046/404/840/large/kim-murzin-8br.jpg?1645034796"
+  },
+  {
+    "name": "V-wing",
+    "img": "https://cdna.artstation.com/p/assets/images/images/027/928/694/large/paul-ozzimo-v-wing-speeder-v01-po.jpg?1592985117"
+  },
+  {
+    "name": "H-type Nubian yacht",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/009/131/483/large/alexey-novikov-_-forest-cat-amidalaship3-ue4-1.jpg?1517311919"
+  },
+  {
+    "name": "Republic Assault ship",
+    "img": "https://i.pinimg.com/564x/e8/5e/7b/e85e7b5645b87d0addb2cd6350fc244a.jpg"
+  },
+  {
+    "name": "Solar Sailer",
+    "img": "https://cdna.artstation.com/p/marketplace/presentation_assets/001/481/358/large/file.jpg?1642387116"
+  },
+  {
+    "name": "Belbullab-22 starfighter",
+    "img": "https://i.pinimg.com/originals/4d/2f/03/4d2f036f9111fb78fb44679cb07a3a50.jpg"
+  },
+  {
+    "name": "Naboo star skiff",
+    "img": "https://i.ebayimg.com/images/g/2AEAAMXQ0pNQ9kgu/s-l500.jpg"
+  },
+  {
+    "name": "Jedi Interceptor",
+    "img": "https://cdna.artstation.com/p/assets/images/images/001/297/514/large/ismael-moreno-flipada2.jpg?1443890486"
+  },
+  {
+    "name": "arc-170",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/044/885/033/large/lea-borde-borde-lea-spaceship-compo-front-apresmodif.jpg?1641399145"
+  },
+  {
+    "name": "Imperial shuttle",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/041/879/347/large/alex-polgar-arkanian-class-imperial-shuttle.jpg?1632947793"
+  },
+  {
+    "name": "EF76 Nebulon-B escort frigate",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/041/601/087/large/isaiah-nebulon-b-frigate.jpg?1632165598"
+  },
+  {
+    "name": "Banking clan frigte",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/024/312/147/large/seung-hyup-nam-munificent-class-frigate.jpg?1582012165"
+  }
+]
