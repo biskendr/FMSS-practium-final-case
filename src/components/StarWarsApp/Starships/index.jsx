@@ -56,7 +56,12 @@ function StarshipDetail() {
         {response && (
           <Grid sx={{ maxWidth: '1280' }}>
             <img
-              src={image[0].img}
+              src={
+                image.length !== 0
+                  ? image[0].img
+                  : 'https://cdn.europosters.eu/image/750/posters/star-wars-the-mandalorian-dark-i81807.jpg'
+              }
+              alt='detail image'
               style={{ maxWidth: '100%', height: 'auto' }}
             />
           </Grid>
